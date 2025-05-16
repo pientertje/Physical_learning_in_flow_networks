@@ -36,8 +36,8 @@ All code used
 Raw and processed data files used throughout the project.  
 - **Directory:** `data/`  
 - **Contents:**  
-  - `raw/` — original simulation outputs  
-  - `processed/` — cleaned CSVs and JSONs ready for plotting  
+  - `raw/` — original data files
+  - `processed/` — process data that where used
 
 ---
 
