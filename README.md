@@ -1,3 +1,12 @@
+
+- [Thesis](thesis/)  
+- [Code](code/)  
+- [Data](data/)  
+- [Media](media/)  
+
+
+
+
 ## Physical Learning in Flow Networks  
 **Bachelor Thesis**  
 **Author:** Pieter Haas  
@@ -18,7 +27,7 @@ All code used
   - `flow_network.py` — general flow network  
   - `Utrecht_network.py` — Utrecht train network model 
   - `chemical_advection.py` — chemical advection model
-  -  - `iris.py` — machine learning on iris data model
+  - `iris.py` — machine learning on iris data model
  
 
 ---
