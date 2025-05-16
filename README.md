@@ -1,8 +1,5 @@
 
-- [Thesis](thesis/)  
-- [Code](code/)  
-- [Data](data/)  
-- [Media](media/)  
+
 
 
 
@@ -11,6 +8,11 @@
 **Bachelor Thesis**  
 **Author:** Pieter Haas  
 **Supervisors:** Marjolein Dijkstra & René van Roij  
+
+- [Thesis](thesis/)  
+- [Code](code/)  
+- [Data](data/)  
+- [Media](media/)  
 
 ---
 
