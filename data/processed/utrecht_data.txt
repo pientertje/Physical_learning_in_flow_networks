@@ -1,0 +1,40 @@
+Abcoude                   ,      26350 , 4.97700 , 52.27850 
+Amersfoort Centraal       ,     463150 , 5.37056 , 52.15389 
+Amersfoort Schothorst     ,      68100 , 5.40389 , 52.17482 
+Amersfoort Vathorst       ,      47450 , 5.43389 , 52.19278 
+Baarn                     ,      53600 , 5.28083 , 52.20833 
+Bilthoven                 ,      55600 , 5.20389 , 52.13000 
+Breukelen                 ,      71400 , 4.99060 , 52.17149 
+Bussum Zuid               ,      51050 , 5.16306 , 52.26583 
+Culemborg                 ,     109300 , 5.22694 , 51.94667 
+Den Dolder                ,      23000 , 5.24278 , 52.14028 
+Driebergen-Zeist          ,     111750 , 5.25861 , 52.06528 
+Hilversum                 ,     283950 , 5.18194 , 52.22583 
+Hilversum Media Park      ,      50700 , 5.17389 , 52.23806 
+Hilversum Sportpark       ,      74100 , 5.18722 , 52.21611 
+Hoevelaken                ,      14850 , 5.45583 , 52.17111 
+Hollandsche Rading        ,      13950 , 5.17917 , 52.17778 
+Houten                    ,      91150 , 5.16821 , 52.03402 
+Houten Castellum          ,      73150 , 5.17949 , 52.01701 
+Maarn                     ,      19800 , 5.37000 , 52.06417 
+Maarssen                  ,      52350 , 5.03361 , 52.13528 
+Naarden-Bussum            ,     112850 , 5.15694 , 52.28028 
+Nijkerk                   ,      39750 , 5.49389 , 52.22222 
+Soest                     ,       2950 , 5.31000 , 52.17333 
+Soest Zuid                ,      20200 , 5.30306 , 52.16528 
+Soestdijk                 ,      10100 , 5.30000 , 52.18361 
+Utrecht Centraal          ,    2389600 , 5.11028 , 52.08889 
+Utrecht Leidsche Rijn     ,      61000 , 5.06523 , 52.09896 
+Utrecht Lunetten          ,      48550 , 5.14417 , 52.06556 
+Utrecht Overvecht         ,      98350 , 5.12472 , 52.11000 
+Utrecht Terwijde          ,      57150 , 5.04395 , 52.10008 
+Utrecht Vaartsche Rijn    ,     116550 , 5.12167 , 52.07889 
+Utrecht Zuilen            ,      37550 , 5.09000 , 52.10305 
+Veenendaal Centrum        ,      28400 , 5.54861 , 52.02000 
+Veenendaal West           ,      17400 , 5.53139 , 52.02806 
+Veenendaal-De Klomp       ,      49500 , 5.57389 , 52.04583 
+Vleuten                   ,      59800 , 5.01083 , 52.10305 
+Woerden                   ,     159850 , 4.89361 , 52.08500 
+Nijkerk                   ,      39750 , 5.49389 , 52.22222 
+BussumZuid                ,      51050 , 5.15694 , 52.28028 
+Rhenen                    ,      20850 , 5.57833 , 51.95861 
