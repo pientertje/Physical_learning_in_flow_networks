@@ -9,7 +9,7 @@
 **Author:** Pieter Haas  
 **Supervisors:** Marjolein Dijkstra & René van Roij  
 
-- [Thesis](thesis/)  
+- [Thesis](BONZ_PieterHaas/)  
 - [Code](code/)  
 - [Data](data/)  
 - [Media](media/)  
